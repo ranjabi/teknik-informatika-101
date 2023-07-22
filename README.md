@@ -88,17 +88,17 @@ DFS | BFS |
 --- | --- |
 ![Dfs][Dfs-img] | ![Bfs][Bfs-img] |
 
-[Dfs-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if2211-tb2-dfs.png?token=GHSAT0AAAAAAB7BEUTYQJONBSIXZSVPDZ36ZF4ALXA
-[Bfs-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if2211-tb2-bfs.png?token=GHSAT0AAAAAAB7BEUTYC2E5SNDRWDXTZYH6ZF4ALNQ
+[Dfs-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if2211-tb2-dfs.png?raw=true
+[Bfs-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if2211-tb2-bfs.png?raw=true
 
 - Tugas Besar 3 - DNA Pattern Matching Website using String Matching and Regular Expression  
 [Repository](https://github.com/ranjabi/DNA-Pattern-Matching)
 
 Homepage |
 --- |
-![Homepage][Homepage-img] |
+![Homepage][if2211-Homepage-img] |
 
-[Homepage-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if2211-tb3-homepage.png?token=GHSAT0AAAAAAB7BEUTZOH5TFRRDICE2POBGZF4ANGA
+[if2211-Homepage-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if2211-tb3-homepage.png?raw=true
 
 ### IF2220 Probabilitas dan Statistika
 
@@ -121,10 +121,10 @@ Col 1 | Col 2 |
 ![Login][Login-img] | ![Song][Song-img] |
 ![List][List-img] | ![Add-album][Add-album-img] |
 
-[Login-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if3110-tb1-login.png?token=GHSAT0AAAAAAB7BEUTYXZ6YNKPK3AXAQFLAZF37WUQ
-[Song-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if3110-tb1-song%20detail.png?token=GHSAT0AAAAAAB7BEUTYCMWJZMZ2XIH3SJEQZF37XLA
-[List-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if3110-tb1-image%20list.png?token=GHSAT0AAAAAAB7BEUTY5KOOTHF3BTAV6F5IZF37YKA
-[Add-album-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if3110-tb1-tambah%20album.png?token=GHSAT0AAAAAAB7BEUTZWMECR4RZ3VCZQQ26ZF37YSA
+[Login-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3110-tb1-login.png?raw=true
+[Song-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3110-tb1-song%20detail.png?raw=true
+[List-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3110-tb1-image%20list.png?raw=true
+[Add-album-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3110-tb1-tambah%20album.png?raw=true
 
 - Tugas Besar 2 - Extended Spotify Clone with microservices, REST and SOAP API, ReactJS  
 [Repository](https://github.com/ranjabi/binotify-main)
@@ -179,6 +179,16 @@ Gameplay | Dialog |
 
 ### IF3250 Proyek Perangkat Lunak
 - Project CariDosen
+
+Col 1 | Col 2 |
+--- | --- |
+![Homepage][if2250-Homepage-img] | ![Review][Review-img] |
+![Cms][Cms-img] | ![Edit-prof][Edit-prof-img] |
+
+[if2250-Homepage-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3250%20homepage.png?raw=true
+[Review-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3250%20review.png?raw=true
+[Cms-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3250%20cms.png?raw=true
+[Edit-prof-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3250%20cms%20edit%20prof.png?raw=true
 
 ###	IF3260 Grafika Komputer
 - Tugas Besar 1 - WebGL 2D Web Based Computer Aided Design (CAD)  
