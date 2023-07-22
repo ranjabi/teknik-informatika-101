@@ -83,8 +83,22 @@ Berisi tentang mata kuliah dan tugas yang dikerjakan oleh mahasiswa teknik infor
 [Repository](https://github.com/ranjabi/Tucil3_13520002)
 - Tugas Besar 2 - Folder Crawler with Breadth First Search and Depth First Search  
 [Repository](https://github.com/ranjabi/Folder-Crawler)
+
+DFS | BFS |
+--- | --- |
+![Dfs][Dfs-img] | ![Bfs][Bfs-img] |
+
+[Dfs-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if2211-tb2-dfs.png?token=GHSAT0AAAAAAB7BEUTYQJONBSIXZSVPDZ36ZF4ALXA
+[Bfs-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if2211-tb2-bfs.png?token=GHSAT0AAAAAAB7BEUTYC2E5SNDRWDXTZYH6ZF4ALNQ
+
 - Tugas Besar 3 - DNA Pattern Matching Website using String Matching and Regular Expression  
 [Repository](https://github.com/ranjabi/DNA-Pattern-Matching)
+
+Homepage |
+--- |
+![Homepage][Homepage-img] |
+
+[Homepage-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if2211-tb3-homepage.png?token=GHSAT0AAAAAAB7BEUTZOH5TFRRDICE2POBGZF4ANGA
 
 ### IF2220 Probabilitas dan Statistika
 
