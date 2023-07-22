@@ -101,6 +101,17 @@ Berisi tentang mata kuliah dan tugas yang dikerjakan oleh mahasiswa teknik infor
 ### IF3110 Pengembangan Aplikasi Berbasis Web
 - Tugas Besar 1 - Spotify Clone in PHP  
 [Repository](https://github.com/ranjabi/binotify)
+
+Col 1 | Col 2 |
+--- | --- |
+![Login][Login-img] | ![Song][Song-img] |
+![List][List-img] | ![Add-album][Add-album-img] |
+
+[Login-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if3110-tb1-login.png?token=GHSAT0AAAAAAB7BEUTYXZ6YNKPK3AXAQFLAZF37WUQ
+[Song-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if3110-tb1-song%20detail.png?token=GHSAT0AAAAAAB7BEUTYCMWJZMZ2XIH3SJEQZF37XLA
+[List-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if3110-tb1-image%20list.png?token=GHSAT0AAAAAAB7BEUTY5KOOTHF3BTAV6F5IZF37YKA
+[Add-album-img]: https://raw.githubusercontent.com/ranjabi/teknik-informatika-101/main/images/if3110-tb1-tambah%20album.png?token=GHSAT0AAAAAAB7BEUTZWMECR4RZ3VCZQQ26ZF37YSA
+
 - Tugas Besar 2 - Extended Spotify Clone with microservices, REST and SOAP API, ReactJS  
 [Repository](https://github.com/ranjabi/binotify-main)
 
@@ -127,10 +138,10 @@ Location | Makanan | Payment | Twibbon |
 --- | --- | --- | --- |
 ![Location][Location-img] | ![Makanan][Makanan-img] | ![Payment][Payment-img] | ![Twibbon][Twibbon-img] |
 
-[Location-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Branch%20Page-min.jpg?raw=true
-[Makanan-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Menu%20Page%20Makanan-min.jpg?raw=true
-[Payment-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Payment%20Succeed-min.jpg?raw=true
-[Twibbon-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Request%20Camera%20Access-min.jpg?raw=true
+[Location-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Branch%20Page.jpg?raw=true
+[Makanan-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Menu%20Page%20Makanan.jpg?raw=true
+[Payment-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Payment%20Succeed.jpg?raw=true
+[Twibbon-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Request%20Camera%20Access.jpg?raw=true
 
 - Tugas Besar Unity - Extended Survival Shooter  
 [Repository](https://gitlab.informatika.org/13520002/if3210-2023-unity-ugm)
