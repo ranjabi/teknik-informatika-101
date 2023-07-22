@@ -122,6 +122,16 @@ Berisi tentang mata kuliah dan tugas yang dikerjakan oleh mahasiswa teknik infor
 ## Semester 6
 ### IF3210 Pengembangan Aplikasi pada Platform Khusus
 - Tugas Besar Android - Food Ordering App
+
+Location | Makanan | Payment | Twibbon |
+--- | --- | --- | --- |
+![Location][Location-img] | ![Makanan][Makanan-img] | ![Payment][Payment-img] | ![Twibbon][Twibbon-img] |
+
+[Location-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Branch%20Page-min.jpg?raw=true
+[Makanan-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Menu%20Page%20Makanan-min.jpg?raw=true
+[Payment-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Payment%20Succeed-min.jpg?raw=true
+[Twibbon-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tba-Request%20Camera%20Access-min.jpg?raw=true
+
 - Tugas Besar Unity - Extended Survival Shooter  
 [Repository](https://gitlab.informatika.org/13520002/if3210-2023-unity-ugm)
 
