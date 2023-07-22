@@ -125,6 +125,13 @@ Berisi tentang mata kuliah dan tugas yang dikerjakan oleh mahasiswa teknik infor
 - Tugas Besar Unity - Extended Survival Shooter  
 [Repository](https://gitlab.informatika.org/13520002/if3210-2023-unity-ugm)
 
+Gameplay | Dialog |
+--- | --- |
+![Gameplay][Gameplay-img] | ![Dialog][Dialog-img] |
+
+[Gameplay-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tbu-play.jpg?raw=true
+[Dialog-img]: https://github.com/ranjabi/teknik-informatika-101/blob/main/images/if3210-tbu-dialog.jpg?raw=true
+
 ###	IF3270 Pembelajaran Mesin
 - Tugas Besar A - Forward Propagation
 - Tugas Besar B - Backward Propagation
