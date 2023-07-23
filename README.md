@@ -146,7 +146,8 @@ Col 1 | Col 2 |
 
 ## Semester 6
 ### IF3210 Pengembangan Aplikasi pada Platform Khusus
-- Tugas Besar Android - Food Ordering App
+- Tugas Besar Android - Food Ordering App  
+[Repository](https://github.com/ranjabi/IF3210-2023-Android-NKR)
 
 Location | Makanan | Payment | Twibbon |
 --- | --- | --- | --- |
