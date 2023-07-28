@@ -239,9 +239,3 @@ Bacalah sebuah buku bertemakan pengembangan diri dan buat resume mengenai buku t
 *coming soon*
 # Semester 8
 *coming soon*
-
-
-## Semester 7
-*coming soon*
-## Semester 8
-*coming soon*
