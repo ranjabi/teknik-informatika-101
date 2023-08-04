@@ -162,7 +162,7 @@ CUDA
 - [Repository](https://github.com/Sister19/if3230-tucil-sister-spilltheteasis)
 
 #### Tugas Besar - Raft Protocol
-Implementasi raft protocol.
+Implementasi raft protocol menggunakan python.
 ##### Additional Info for the Developer
 - Komunikasi menggunakan XMLRPC pada python
 - Library yang digunakan adalah xmlrpc, json, asyncio, time, socket, threading, dan sys
@@ -233,7 +233,7 @@ Website visualisasi 3D hollow object merupakan versi tiga dimensi dari tugas bes
 
 ##	IF3280 Socio-informatika dan Profesionalisme
 #### Tugas Resume Buku
-Bacalah sebuah buku bertemakan pengembangan diri dan buat resume mengenai buku tersebut.
+Membaca sebuah buku bertemakan pengembangan diri dan buat resume mengenai buku tersebut.
 
 ## Semester 7
 *coming soon*
