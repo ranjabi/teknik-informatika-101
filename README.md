@@ -1,5 +1,5 @@
 # Teknik Informatika 101
-Berisi tentang mata kuliah dan tugas mahasiswa teknik informatika 2020 di Institut Teknologi Bandung.
+Berisi tentang tugas mahasiswa teknik informatika 2020 di Institut Teknologi Bandung.
 
 ## Semester 1
 ### KU1102 Pengenalan Komputasi
